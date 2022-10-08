@@ -25,6 +25,6 @@
     "fracty": "^1.0.9",
     "regenerator-runtime": "^0.13.9"
   },
-  "main": "index.js",
+  "main": "index.html",
   "keywords": []
 }
